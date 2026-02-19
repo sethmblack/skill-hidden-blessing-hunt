@@ -3,7 +3,7 @@ name: hidden-blessing-hunt
 description: Find opportunity within setback through immediate mindset shift using Sara Blakely's "hidden blessing" technique.
 license: MIT
 metadata:
-  version: 1.0.4157
+  version: 1.0.4158
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
